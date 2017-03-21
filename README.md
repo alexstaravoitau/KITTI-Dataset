@@ -1,4 +1,4 @@
-# KITTI Dataset exploration
+# KITTI Dataset Exploration
 
 ## Dependencies
 
