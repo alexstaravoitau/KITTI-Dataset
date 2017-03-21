@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-Notebook requires [`pykitti`](https://github.com/utiasSTARS/pykitti). You can install it via pip using:
+Apart from the usual dependencies like `numpy` and `matplotlib` notebook requires [`pykitti`](https://github.com/utiasSTARS/pykitti). You can install it via pip using:
 
 ```
 pip install pykitti
