@@ -10,11 +10,11 @@ pip install pykitti
 
 ## Project structure
 
-| File                         | Description                                                                        |
-| ---------------------------- | ---------------------------------------------------------------------------------- |
-| `kitti-dataset.ipynb`        | Jupyter Notebook with dataset visualisation routines and output.                  |
-| `parseTrackletXML.py`        | Methods for parsing tracklets (e.g. dataset labels), originally created by Christian Herdtweck.  |
-| `utilities.py`               | Convenient logging routines.                                             |
+| File                   | Description                                                                                      |
+| ---------------------- | ------------------------------------------------------------------------------------------------ |
+| `kitti-dataset.ipynb`  | Jupyter Notebook with dataset visualisation routines and output.                                 |
+| `parseTrackletXML.py`  | Methods for parsing tracklets (e.g. dataset labels), originally created by Christian Herdtweck.  |
+| `utilities.py`         | Convenient logging routines.                                                                     |
 
 ## Dataset
 
