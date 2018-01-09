@@ -1,5 +1,7 @@
 # KITTI Dataset Exploration
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/navoshta/KITTI-Dataset/master?filepath=kitti-dataset.ipynb)
+
 ## Dependencies
 
 Apart from the common dependencies like `numpy` and `matplotlib` notebook requires [`pykitti`](https://github.com/utiasSTARS/pykitti). You can install `pykitti` via pip using:
