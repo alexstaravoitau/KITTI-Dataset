@@ -1,5 +1,0 @@
-dependencies:
-  - matplotlib=2.0.2
-  - numpy=1.12.1
-  - moviepy=0.2.3.2
-  - pykitti=0.2.0
